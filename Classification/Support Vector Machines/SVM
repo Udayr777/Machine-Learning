@@ -1,0 +1,2 @@
+Support Vector Machines is a type of Classification algorithms that models the relationship between dependent variables and independent variable.
+Developed a Support Vector Machine model with Social Network Ads dataset and predicted around 90% accuracy that customers purchased the product, developed using linear kernal.
