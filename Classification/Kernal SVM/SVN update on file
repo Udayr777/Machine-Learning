@@ -1,0 +1,3 @@
+Kernel SVM is a type of Classification algorithms that models the relationship between dependent variables and independent variable.
+Developed a Kernel SVM model with Social Network Ads dataset and predicted around 93% accuracy that customers purchared the product.
+Used Kernel RBF for a non linear seperable data.
